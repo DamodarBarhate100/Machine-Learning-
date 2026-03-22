@@ -11,20 +11,6 @@ This repository is a dedicated record of my daily practice and deep dive into Ma
 **3.Track 3: Scikit-Learn (Industry Standard):** Implementing the same model using professional frameworks to understand API design, hyperparameter tuning, and performance benchmarking.
 
 
-### Repository Structure
-```text
-📂 ML-Algorithms/
-├── 📂 01_Linear_Regression/
-│   ├── README.md             # Math derivations & results
-│   ├── model_scratch.py      # NumPy implementation
-│   └── model_sklearn.py      # Scikit-Learn implementation
-├── 📂 02_Logistic_Regression/
-│   ├── README.md
-│   ├── model_scratch.py
-│   └── model_sklearn.py       
-```
-
-
 ### Tech Stack & Core Mathematics
 
 * **Programming Languages:** Python (Advanced NumPy/Pandas)
